@@ -42,5 +42,3 @@ int max_height(node* root){
     return rheight+1;
   }
 }
-
-
